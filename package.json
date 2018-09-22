@@ -17,6 +17,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "cryptiles": "^4.1.2",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
